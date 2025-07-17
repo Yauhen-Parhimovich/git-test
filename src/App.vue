@@ -3,7 +3,7 @@
 
 <template>
   <div>
-    First test
+    Example
   </div>
 </template>
 
